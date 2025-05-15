@@ -1,2 +1,2 @@
-# InstrumentCyborgs
-Github Repository for The MCT Master's Thesis Instrument Cyborgs
+# Frankenfender
+Github Repository for The MCT Master's Thesis Frankenfender
